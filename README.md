@@ -17,18 +17,16 @@ A collection of popular coding interview problems, patterns, and algorithms impl
 
 ---
 
-## 🚀 How to Run and Test
+## 🚀 How to Use & Run
 
-Every Python file in this repository comes with built-in test cases using standard `if __name__ == "__main__":` execution blocks. 
+This repository contains interactive Jupyter Notebooks (`.ipynb`). You can run them locally or online via Google Colab.
 
-To run any script and view test outputs, simply execute:
+### Option 1: Jupyter Notebook / VS Code (Locally)
+1. Clone the repository:
+   ```bash
+   git clone [https://github.com/ZaheerAbbasKhan-coder/Two---Pointer-Revison-.git](https://github.com/ZaheerAbbasKhan-coder/Two---Pointer-Revison-.git)
 
-```bash
-python filename.py
-
-```
-
-### Example Test Output (`move_zeroes.py`):
+### Example Test Output (`move_zeroes.ipynb`):
 
 ```text
 Input: [0, 1, 0, 3, 12]         -> Result: [1, 3, 12, 0, 0]
