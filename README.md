@@ -1,6 +1,3 @@
-Here is a clean, professional, and well-structured `README.md` template tailored for your repository:
-
-```markdown
 # 🧩 Two-Pointer & Array Algorithm Revision
 
 A collection of popular coding interview problems, patterns, and algorithms implemented in Python, complete with built-in test cases and `if __name__ == "__main__":` blocks for seamless local testing.
